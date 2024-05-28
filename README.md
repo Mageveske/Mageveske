@@ -1,5 +1,5 @@
-# Hello! Welcome to my GitHub profile. 👋
-## My name is Protáze Mageveske and my nyckname is Mageveske!
+# Hi there! Welcome to my GitHub profile. 👋
+## My name is **Protáze Mageveske**!
 
 <!--
 **Mageveske/Mageveske** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,15 +16,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on the development of a software to make nonlinear analyses of planar structures
+## About me
+- 🔭 I’m currently working on a software development to carry out a nonlinear geometrical and physical analysis of general composite structures
 
-## Tools and Technologies
+
+## Tools and technologies that I work with
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="40" height="40"/>       
 
-## I am learning
+## I'm currently learning
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
 
-## Contacts
+## Please, fell free to contact me
 <div>
 <a href="https://www.linkedin.com/in/protázemageveske" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
