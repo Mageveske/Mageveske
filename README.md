@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ## About me
-- 🔭 I’m currently working on a software development to carry out a nonlinear geometrical and physical analysis of general composite structures
+🔭 I’m currently working on a software development to carry out a nonlinear geometrical and physical analysis of general composite structures
 
 
 ## Tools and technologies that I work with
@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 
 <div>
 <a href="https://github.com/Mageveske">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mageveske&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Mageveske&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mageveske&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=Mageveske&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
